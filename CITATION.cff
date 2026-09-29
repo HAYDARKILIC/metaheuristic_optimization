@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this course material, please cite it as below."
+title: "Metaheuristic Optimization: The Five Classic Algorithms and Every Mechanism Behind Them, Built from Scratch"
+type: software
+authors:
+  - family-names: "Kılıç"
+    given-names: "Haydar"
+    email: "haydarkilicinfo@gmail.com"
+repository-code: "https://github.com/HAYDARKILIC/metaheuristic_optimization"
+license: MIT
+date-released: "2026-09-29"
+keywords:
+  - metaheuristics
+  - simulated annealing
+  - tabu search
+  - genetic algorithm
+  - particle swarm optimization
+  - ant colony optimization
+  - differential evolution
+  - cma-es
+  - multi-objective optimization
+  - benchmarking
+  - numpy
