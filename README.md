@@ -1,10 +1,5 @@
 # METAHEURISTIC OPTIMIZATION
 
-[![CI](https://github.com/HAYDARKILIC/metaheuristic_optimization/actions/workflows/ci.yml/badge.svg)](https://github.com/HAYDARKILIC/metaheuristic_optimization/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![NumPy](https://img.shields.io/badge/built%20with-NumPy-013243)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 **The five classic metaheuristics and every mechanism behind them, built from scratch in NumPy.**
 
 A six-week research curriculum on heuristic search: **Simulated Annealing, Tabu Search, Genetic Algorithms,
